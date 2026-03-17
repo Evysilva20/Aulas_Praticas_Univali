@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Curso-ADS-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tecnologias-HTML5_%26_CSS3-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Local-Florianópolis-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Local-Florianopolis-lightgrey?style=for-the-badge" />
 </div>
 
 <br/>
