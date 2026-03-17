@@ -23,7 +23,7 @@ Este repositório é dedicado ao armazenamento e organização das atividades pr
 
 ### 👩‍💻 Autora
 
-**Evily Silva** *Estudante de Análise e Desenvolvimento de Sistemas* [Perfil no Linktree](https://linktr.ee/evysilv0) | [LinkedIn](https://www.linkedin.com/in/evilysilva)
+**Evily Silva** *Estudante de Análise e Desenvolvimento de Sistemas* [Linktree](https://linktr.ee/evysilv0) | [LinkedIn](https://www.linkedin.com/in/evilysilva)
 
 ---
 <div align="center">
