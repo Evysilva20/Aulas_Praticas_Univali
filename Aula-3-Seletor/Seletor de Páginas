@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seletor</title>
+    <style>
+        body {
+        margin: 30px;
+        padding: 50px;
+        }
+
+        .conteiner {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .paginacao ul {
+        list-style: none;
+        display: flex;
+        padding: 0;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        }
+
+        .paginacao li {
+        border-right: 1px solid #ddd;
+        }
+
+        .paginacao li:last-child {
+            border-right: none;
+        }
+
+        .paginacao a {
+        display: block;
+        padding: 10px 15px;
+        text-decoration: none;
+        color: #3b82f6;
+        transition: 0.3s;
+        }
+
+        /* Hover */
+        .paginacao a:hover {
+        background-color: #4c78ba;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    
+    <!-- Seletor de Paginação -->
+    
+    <div class="paginacao">
+        <div class="conteiner">
+            <ul>
+                <li><a href="#">&laquo;</a></li>
+                <li><a href="#">1</a></li>
+                <li><a href="#">2</a></li>
+                <li><a href="#">3</a></li>
+                <li><a href="#">4</a></li>
+                <li><a href="#">5</a></li>
+                <li><a href="#">&raquo;</a></li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
