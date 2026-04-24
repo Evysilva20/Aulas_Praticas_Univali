@@ -18,6 +18,7 @@ Aqui você encontra os atalhos para os módulos e projetos específicos deste re
 * [📁 Aula 02 - Carta](https://evysilva20.github.io/Aulas_Praticas_Univali/Aula-2-Carta/carta.html)
 * [📁 Aula 03 - Seletor de Página](https://evysilva20.github.io/Aulas_Praticas_Univali/Aula-2-Carta/carta.html)
 * [📁 Aula 04 - Viagem a Irlanda](https://evysilva20.github.io/Aulas_Praticas_Univali/Aula-2-Carta/carta.html)
+* [📁 Aula 05 - Calculadora](https://evysilva20.github.io/Aulas_Praticas_Univali/Calculadora/calculadora.html)
 
 ---
 
