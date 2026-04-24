@@ -1,5 +1,3 @@
-# 🎓 Aulas Práticas - Univali
-
 <div align="center">
   <img src="https://img.shields.io/badge/Curso-ADS-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tecnologias-HTML5_%26_CSS3-orange?style=for-the-badge" />
