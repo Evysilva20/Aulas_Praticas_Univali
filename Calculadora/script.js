@@ -1,7 +1,4 @@
-alert("JS carregado com sucesso!");
-const display = document.getElementById('display');
-        
-        const display = document.getElementById('display');
+    const display = document.getElementById('display');
 
         function adicionarAoVisor(valor) {
             display.value += valor;}
