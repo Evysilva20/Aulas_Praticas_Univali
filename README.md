@@ -16,8 +16,8 @@ Aqui você encontra os atalhos para os módulos e projetos específicos deste re
 
 * [📁 Aula 01 - Animal em Extinção](https://evysilva20.github.io/Aulas_Praticas_Univali/Aula-1-Animal/aula-1-animal.html)
 * [📁 Aula 02 - Carta](https://evysilva20.github.io/Aulas_Praticas_Univali/Aula-2-Carta/carta.html)
-* [📁 Aula 03 - Seletor de Página](https://evysilva20.github.io/Aulas_Praticas_Univali/Aula-2-Carta/carta.html)
-* [📁 Aula 04 - Viagem a Irlanda](https://evysilva20.github.io/Aulas_Praticas_Univali/Aula-2-Carta/carta.html)
+* [📁 Aula 03 - Seletor de Página](https://evysilva20.github.io/Aulas_Praticas_Univali/Aula-3-Seletor/seletor.html)
+* [📁 Aula 04 - Viagem a Irlanda](https://evysilva20.github.io/Aulas_Praticas_Univali/Trip_Irlanda/index.html)
 * [📁 Aula 05 - Calculadora](https://evysilva20.github.io/Aulas_Praticas_Univali/Calculadora/calculadora.html)
 
 ---
