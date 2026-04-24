@@ -1,14 +1,25 @@
-    const display = document.getElementById('display');
+// O ERRO ESTAVA AQUI: O ID correto no seu HTML é 'display'
+const display = document.getElementById('display'); 
 
-        function adicionarAoVisor(valor) {
-            display.value += valor;}
+function adicionarAoVisor(valor) {
+    if (display.value === "Erro") {
+        display.value = "";
+    }
+    display.value += valor;
+}
 
-        function limparVisor() {
-            display.value = "";}
+function limparVisor() {
+    display.value = "";
+}
 
-        function calcular() {
-            try {
-                display.value = eval(display.value);
-            } catch (error) {
-                display.value = "Erro";
-                setTimeout(limparVisor, 1500);}}
+function calcular() {
+    try {
+        if (display.value !== "") {
+            // eval() resolve a conta matemática que está no texto
+            display.value = eval(display.value);
+        }
+    } catch (error) {
+        display.value = "Erro";
+        setTimeout(limparVisor, 1500);
+    }
+}
